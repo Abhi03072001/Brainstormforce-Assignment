@@ -1,4 +1,4 @@
-import './home.css';
+import './signup.css';
 import {Button, InputRightElement, Input,Select,InputGroup} from '@chakra-ui/react'
 import {Link} from 'react-router-dom'
 import {useState} from "react"
